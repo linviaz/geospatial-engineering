@@ -11,3 +11,4 @@ pages:
 - 'Open Data Sources and Types': 'opendata/README.md'
 - 'Load data with QGIS': 'qgis/README.md'
 - 'Commandline and psql': 'psql/README.md'
+- 'Mapping with Python':'python/README.md'
