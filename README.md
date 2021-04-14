@@ -1,2 +1,2 @@
-# geospacial-engineering
-Geospacial Engineering, PostgreSQL, PostGIS, QGIS, Geopandas
+# geospatial-engineering
+Geospatial Engineering, PostgreSQL, PostGIS, QGIS, Geopandas
